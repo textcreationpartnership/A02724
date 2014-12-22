@@ -36,9 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Late nevves out of Barbary In a letter written of late from a merchant there, to a gentl. not long s
+
+1. An Aduertiſement to the READER.
+
 #####Body#####
-Late nevves out of Barbary In a letter written of late from a merchant there, to a gentl. not long s
+
+1. Laus Deo in Saphia, the 9. of September. 1612.
+
+1. An other letter receiued from an other friend, at the ſame time dated the tenth of September.
+SInce the writing (and almoſt printing) of theſe two letters, there is newes come (and that for cert
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
